@@ -11,4 +11,4 @@ Desenvolvido por Carlos Mauricio Lopes
 
 ### Desenvolvimento
 
-Neste repositório estarão os arquivos que irão compor os trabalhos da disci
+Neste repositório estarão os arquivos que irão compor os trabalhos e projetos da disciplina.
